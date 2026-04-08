@@ -1,102 +1,61 @@
-<!-- HERO VIDEO -->
-<p align="center">
-  <video src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260217_030345_246c0224-10a4-422c-b324-070b7c0eceda.mp4" autoplay loop muted width="100%"></video>
-</p>
-
+<!-- HERO -->
 <h1 align="center">⚡ Muaadh | Building Systems That Think</h1>
-
-<p align="center">
-  Not just coding projects — engineering ecosystems.
-</p>
+<p align="center">Engineering real-world systems — not just projects</p>
 
 ---
 
-## 🧠 Who I Am
-
-I don’t just build apps.  
-I build **systems that operate, learn, and scale**.
-
-- 🏫 Incoming @ UT Austin (Finance + Tech)
-- ⚙️ Builder of real-world systems (not toy projects)
-- 🧩 Focus: AI × Operations × Automation
-- 🌍 Mission: Use tech to solve **real community + business problems**
+## 🧠 About
+I build systems that operate, learn, and scale — focused on AI, automation, and real-world impact.
 
 ---
 
-## 🧪 Research @ Rice University
+## 🚀 Projects
 
-Worked on advanced **3D Bioprinting research** under Dr. Yetkin Yildirim.
+<table>
+<tr>
+<td width="50%">
 
-- 🧬 Focused on real-world biomedical applications  
-- 📄 Contributed to published research  
-- ⚙️ Learned how to turn theory → practical systems  
+**SmartFX**  
+AI-powered financial intelligence system
 
-> This is where I learned:  
-> **innovation = engineering + execution**
+</td>
+<td width="50%">
 
----
+**Volunteer Operations Hub**  
+Kiosk + dashboard for real-world operations
 
-## 💼 Core Projects
+</td>
+</tr>
 
-### ⚡ SmartFX (AI Wealth Platform)
-A high-impact financial intelligence system.
+<tr>
+<td width="50%">
 
-- 📊 Predictive analytics for markets  
-- 🧠 AI-driven decision frameworks  
-- ⚙️ Designed like a real fintech product (not a demo)
+**NeuraAI**  
+AI-based facial analysis system
 
----
+</td>
+<td width="50%">
 
-### 🕌 Volunteer Operations Hub (Kiosk + Dashboard System)
+**Quantum Predictor**  
+Quantum + ML for stock prediction
 
-A full-stack system used for real-world operations.
-
-**Kiosk App**
-- Public interface for volunteers  
-- Task management + signup system  
-- Real-time data capture  
-
-**Dashboard (PWA)**
-- Admin control center  
-- Event + volunteer management  
-- Fully synced with kiosk  
-
-> Built with real deployment in mind (Railway + Supabase)
-
----
-
-### 🤖 NeuraAI (Medical AI Detection)
-AI-powered facial analysis system.
-
-- Detects early-stage neuromuscular disorders  
-- Uses image classification + dataset training  
-- Real-world healthcare application focus  
-
----
-
-### 🧠 Quantum Stock Predictor
-Exploring the future of finance using **quantum ML**
-
-- Qiskit-based modeling  
-- Quantum kernels + classification  
-- Bridging finance + quantum computing  
-
----
-
-### 🔍 Eye Tracking Web App
-Computer vision system using webcam tracking.
-
-- Tracks eye movement in real time  
-- Built using TensorFlow.js  
-- Visual feedback system (red dot tracking)
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Tech Stack
 
-```txt
-AI / ML        → TensorFlow.js, Python, Qiskit  
-Frontend       → Next.js, React, Tailwind  
-Backend        → Supabase, APIs  
-Infra          → Railway, Vercel  
-Other          → Computer Vision, PWA, Real-time systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,python,tensorflow,vercel" />
+  <br/>
+  <img src="https://img.shields.io/badge/Qiskit-Quantum-blueviolet?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-Deploy-black?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+⚡ Building systems > building projects
+</p>
