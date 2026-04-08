@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
+  <img src="https://images.unsplash.com/photo-1587614382346-ac6b0c4c1c8c?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
@@ -44,19 +44,17 @@ Facial analysis for early disorder detection
 **Eye Tracking System**  
 Real-time eye tracking using TensorFlow.js  
 
----
-
-## 🔬 Research
-
-- 3D Bioprinting  
-- Engineering + commercialization  
 
 ---
 
 ## 🎓 Education
 
 <p align="center">
-  Dual Enrolled Student at TAMU & ACC
+  <img src="https://images.unsplash.com/photo-1603575448361-9c3c2f9c1a3b?q=80&w=1200&h=250&auto=format&fit=crop" width="80%" />
+</p>
+
+<p align="center">
+  TAMU & ACC
 </p>
 
 ---
