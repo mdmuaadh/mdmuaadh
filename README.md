@@ -35,12 +35,16 @@
 
 ## 🎓 Education
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="220"/>
-</p>
+<br/>
 
 <p align="center">
-  TAMU & ACC
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="75%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>TAMU & ACC</strong>
 </p>
 
 ---
