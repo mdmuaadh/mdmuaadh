@@ -34,24 +34,11 @@
 
 ---
 
-## 🎓 Education
+
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="65%" />
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="65%" />
 </p>
 
-<p align="center">
-  <strong>TAMU & ACC</strong>
-</p>
-
-<br/>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,html,css,tailwind,postgres,mysql,aws,git,linux,tensorflow" />
-</p>
