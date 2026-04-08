@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1587614382346-ac6b0c4c1c8c?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/assets/banner.gif" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
@@ -30,28 +30,7 @@
 
 ---
 
-## 🚀 Projects
-
-**SmartFX**  
-AI-powered financial prediction & analysis platform  
-
-**Volunteer Operations Hub**  
-Dashboard + kiosk system for real-time operations  
-
-**NeuraAI**  
-Facial analysis for early disorder detection  
-
-**Eye Tracking System**  
-Real-time eye tracking using TensorFlow.js  
-
-
----
-
 ## 🎓 Education
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1603575448361-9c3c2f9c1a3b?q=80&w=1200&h=250&auto=format&fit=crop" width="80%" />
-</p>
 
 <p align="center">
   TAMU & ACC
