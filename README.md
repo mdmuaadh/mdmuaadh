@@ -3,7 +3,7 @@
 
 <br/>
 
-<h1 align="center">Muaadh Mohideen</h1>
+<h1 align="center">Muaadh Mohideen a.k.a Mooski</h1>
 
 <p align="center">
   MechE • Finance • Full-Stack Systems
