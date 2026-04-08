@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/islamic-banner.jpg" width="90%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Islamic_Calligraphy.svg/1200px-Islamic_Calligraphy.svg.png" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
@@ -36,7 +36,7 @@
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/tamu-banner.jpg" width="80%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Texas_A%26M_University_seal.svg/1200px-Texas_A%26M_University_seal.svg.png" width="120"/>
 </p>
 
 <p align="center">
