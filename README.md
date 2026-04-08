@@ -1,12 +1,16 @@
-<h1 align="center">⚡ Muaadh Mohideen</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/banner.png" width="100%" />
+</p>
+
+<h1 align="center">Muaadh Mohideen</h1>
 
 <p align="center">
-  Building AI, full-stack systems, and real-world products.
+  AI • Finance • Full-Stack Systems
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/mdmuaadh">
@@ -24,24 +28,24 @@
 
 ## 🚀 Projects
 
-### 🔹 SmartFX  
-AI-powered financial analysis platform using predictive models and data-driven insights.
+**SmartFX**  
+AI-powered financial prediction & analysis platform  
 
-### 🔹 Volunteer Operations Hub  
-Full-stack dashboard + kiosk system for managing volunteers, events, and real-time operations.
+**Volunteer Operations Hub**  
+Dashboard + kiosk system for real-time operations  
 
-### 🔹 AI Facial Analysis (NeuraAI)  
-Detects neuromuscular disorders using image-based classification models.
+**NeuraAI**  
+Facial analysis for early disorder detection  
 
-### 🔹 Eye Tracking Web App  
-Webcam-based tracking system using TensorFlow.js to map eye movement in real-time.
+**Eye Tracking System**  
+Real-time eye tracking using TensorFlow.js  
 
 ---
 
 ## 🔬 Research
 
-- Contributed to **3D Bioprinting research**  
-- Focus: engineering + commercialization of emerging biotech systems  
+- 3D Bioprinting  
+- Engineering + commercialization  
 
 ---
 
@@ -53,18 +57,13 @@ Webcam-based tracking system using TensorFlow.js to map eye movement in real-tim
 
 ---
 
-## ⚡ What I Do
+## ⚡ Focus
 
-- Build **real-world AI applications**
-- Design **full-stack systems (frontend + backend + DB)**
-- Work on **automation, dashboards, and data systems**
-- Explore **quant + AI for finance**
+AI • Quant Finance • Full-Stack • Automation  
 
 ---
 
-## 📫 Reach Out
-
-Open to collaborations, building startups, and scaling ideas.
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:muaadh.mohideen12345@gmail.com">
