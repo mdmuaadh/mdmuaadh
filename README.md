@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/banner.png" width="100%" />
+  <img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
