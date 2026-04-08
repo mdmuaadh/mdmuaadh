@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="90%" />
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="100%" height="220"/>
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
@@ -35,13 +35,9 @@
 
 ## 🎓 Education
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="75%" />
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="100%" height="160"/>
 </p>
-
-<br/>
 
 <p align="center">
   <strong>TAMU & ACC</strong>
