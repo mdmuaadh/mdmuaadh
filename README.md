@@ -1,13 +1,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
+  <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
 
 <p align="center">
-  AI • Finance • Full-Stack Systems
+  MechE • Finance • Full-Stack Systems
 </p>
 
 <br/>
@@ -56,9 +56,7 @@ Real-time eye tracking using TensorFlow.js
 ## 🎓 Education
 
 <p align="center">
-  Dual Enrolled Student at TAMU & ACC  
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Texas_A%26M_University_logo.svg" height="30"/>
+  Dual Enrolled Student at TAMU & ACC
 </p>
 
 ---
