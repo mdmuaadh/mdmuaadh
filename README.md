@@ -1,8 +1,5 @@
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="90%" />
-</p>
 
 <br/>
 
