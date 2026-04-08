@@ -1,82 +1,102 @@
-<!-- HEADER BANNER -->
-
+<!-- HERO VIDEO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muaadh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <video src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260217_030345_246c0224-10a4-422c-b324-070b7c0eceda.mp4" autoplay loop muted width="100%"></video>
 </p>
 
-<!-- TYPING ANIMATION -->
+<h1 align="center">⚡ Muaadh | Building Systems That Think</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Student;Web+Developer;Building+Cool+Stuff;Future+Engineer" />
-</p>
-
----
-
-## 🧠 About Me
-
-```bash
-> name: Muaadh
-> role: Student / Developer
-> location: Austin, TX
-> focus: AI + Web Development
-```
-
-* 🚀 Building projects that actually matter
-* 🧑‍💻 Learning fast & improving daily
-* 🎯 Goal: become top-tier developer
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,docker,git,linux" />
+  Not just coding projects — engineering ecosystems.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Who I Am
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmuaadh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmuaadh&theme=tokyonight" />
-</p>
+I don’t just build apps.  
+I build **systems that operate, learn, and scale**.
 
----
-
-## 🚀 Projects
-
-🔥 **AI Vision Studio**
-
-> Image classification web app
-
-📈 **Quantum Stock Classifier**
-
-> Predicts stock movement using ML
-
-🎥 **Webcam Glitch App**
-
-> Real-time video effects
+- 🏫 Incoming @ UT Austin (Finance + Tech)
+- ⚙️ Builder of real-world systems (not toy projects)
+- 🧩 Focus: AI × Operations × Automation
+- 🌍 Mission: Use tech to solve **real community + business problems**
 
 ---
 
-## 🌐 Connect With Me
+## 🧪 Research @ Rice University
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-</p>
+Worked on advanced **3D Bioprinting research** under Dr. Yetkin Yildirim.
 
----
+- 🧬 Focused on real-world biomedical applications  
+- 📄 Contributed to published research  
+- ⚙️ Learned how to turn theory → practical systems  
 
-## ⚡ Fun Section
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmuaadh&theme=tokyonight"/>
-</p>
+> This is where I learned:  
+> **innovation = engineering + execution**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+## 💼 Core Projects
+
+### ⚡ SmartFX (AI Wealth Platform)
+A high-impact financial intelligence system.
+
+- 📊 Predictive analytics for markets  
+- 🧠 AI-driven decision frameworks  
+- ⚙️ Designed like a real fintech product (not a demo)
+
+---
+
+### 🕌 Volunteer Operations Hub (Kiosk + Dashboard System)
+
+A full-stack system used for real-world operations.
+
+**Kiosk App**
+- Public interface for volunteers  
+- Task management + signup system  
+- Real-time data capture  
+
+**Dashboard (PWA)**
+- Admin control center  
+- Event + volunteer management  
+- Fully synced with kiosk  
+
+> Built with real deployment in mind (Railway + Supabase)
+
+---
+
+### 🤖 NeuraAI (Medical AI Detection)
+AI-powered facial analysis system.
+
+- Detects early-stage neuromuscular disorders  
+- Uses image classification + dataset training  
+- Real-world healthcare application focus  
+
+---
+
+### 🧠 Quantum Stock Predictor
+Exploring the future of finance using **quantum ML**
+
+- Qiskit-based modeling  
+- Quantum kernels + classification  
+- Bridging finance + quantum computing  
+
+---
+
+### 🔍 Eye Tracking Web App
+Computer vision system using webcam tracking.
+
+- Tracks eye movement in real time  
+- Built using TensorFlow.js  
+- Visual feedback system (red dot tracking)
+
+---
+
+## ⚙️ Tech Stack
+
+```txt
+AI / ML        → TensorFlow.js, Python, Qiskit  
+Frontend       → Next.js, React, Tailwind  
+Backend        → Supabase, APIs  
+Infra          → Railway, Vercel  
+Other          → Computer Vision, PWA, Real-time systems
