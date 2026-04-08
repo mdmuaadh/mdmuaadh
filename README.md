@@ -6,14 +6,13 @@
 <h1 align="center">Muaadh Mohideen a.k.a Mooski</h1>
 
 <p align="center">
-  MechE • Finance • Full-Stack Systems
+  MechE • Finance • Full-Stack
 </p>
 
 <br/><br/>
 
 ---
 
-## Connect
 
 <p align="center">
   <a href="https://github.com/mdmuaadh">
