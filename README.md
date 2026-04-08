@@ -1,12 +1,16 @@
+<br/>
+
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1600&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1400&h=350&auto=format&fit=crop" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
 
 <p align="center">
-  AI • Finance • Full-Stack Systems
+  MechE • Finance • Full-Stack Systems
 </p>
+
+<br/>
 
 ---
 
@@ -59,7 +63,7 @@ Real-time eye tracking using TensorFlow.js
 
 ## ⚡ Focus
 
-AI • Quant Finance • Full-Stack • Automation  
+AI • Finance • Full-Stack • Automation  
 
 ---
 
