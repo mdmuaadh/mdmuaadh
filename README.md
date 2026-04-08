@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/assets/banner.gif" width="90%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/islamic-banner.jpg" width="90%" />
 </p>
 
 <h1 align="center">Muaadh Mohideen</h1>
@@ -26,11 +26,18 @@
   <a href="https://www.instagram.com/muaadh_mohideen/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+  <a href="mailto:muaadh.mohideen12345@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## 🎓 Education
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/tamu-banner.jpg" width="80%" />
+</p>
 
 <p align="center">
   TAMU & ACC
@@ -42,14 +49,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,html,css,tailwind,postgres,mysql,aws,git,linux,tensorflow" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:muaadh.mohideen12345@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
 </p>
