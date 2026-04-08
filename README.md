@@ -1,8 +1,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="100%" height="220"/>
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/robotics.jpg" width="90%" />
 </p>
+
+<br/>
 
 <h1 align="center">Muaadh Mohideen</h1>
 
@@ -10,7 +12,7 @@
   MechE • Finance • Full-Stack Systems
 </p>
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -31,17 +33,23 @@
   </a>
 </p>
 
+<br/>
+
 ---
 
 ## 🎓 Education
 
+<br/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="100%" height="160"/>
+  <img src="https://raw.githubusercontent.com/mdmuaadh/mdmuaadh/main/tamulogo.jpg" width="65%" />
 </p>
 
 <p align="center">
   <strong>TAMU & ACC</strong>
 </p>
+
+<br/>
 
 ---
 
